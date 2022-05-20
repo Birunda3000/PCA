@@ -1,2 +1,2 @@
 # PCA
-Principal Component Analysis Notebooks
+Visualization and data analysis with Principal Component Analysis
